@@ -1,4 +1,4 @@
-module github.com/terra-farm/terraform-provider-virtualbox
+module github.com/anthcp-infocom/terraform-infocom-virtualbox
 
 go 1.12
 
