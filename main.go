@@ -4,7 +4,7 @@
 package main
 
 import (
-	"github.com/anthcp-infocom/terraform-infocom-virtualbox"
+	"github.com/anthcp-infocom/terraform-infocom-virtualbox/virtualbox"
 	"github.com/hashicorp/terraform-plugin-sdk/plugin"
 )
 
