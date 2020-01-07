@@ -4,8 +4,8 @@
 package main
 
 import (
+	"github.com/anthcp-infocom/terraform-infocom-virtualbox"
 	"github.com/hashicorp/terraform-plugin-sdk/plugin"
-	"github.com/terra-farm/terraform-provider-virtualbox/virtualbox"
 )
 
 func main() {
